@@ -1,0 +1,18 @@
+Requirements:
+Python 3
+Jupyter Notebook
+
+Packages used:
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-Learn/sklearn
+
+Details:
+1.Used Pandas for getting dataset as dataframe and performing preprocessing on data.
+2.Used NumPy for preprocessing data.
+3.Used Matplotlib and Seaborn for Data Visualisation.
+4.Sklearn Library for preparing Machine Learning Models and performing predictions.
+
+*Additional details and process mentioned in attached Jupyter Notebook.
